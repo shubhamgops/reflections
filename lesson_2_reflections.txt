@@ -1,2 +1,5 @@
 	1. what happens when you initialize a repositary? why do you need to do it?
 	ans: when you initialize a repository then only you track and save the commits or history of your project folders. by using git init command you initialize the repository it will create a hidden git folder.
+
+	2. How is the staging area different from the working directory and the repository ? what value do you think it offers?
+	ans: staging are give you chance to chooose the file among all the files which will commited as a single logical change. from working directroy to repository.
