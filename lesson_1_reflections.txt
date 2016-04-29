@@ -1,0 +1,33 @@
+	1.how did viewing a diff between two version of a file help you see the	bug that was introduce?
+    ans:
+	diff command in unix or mac and FC command in windows comparest two files and display the changes of files line by line .
+
+	2.how could having easy access to the entire history of a file make you a more effiecient porogrammer in  the long term?
+	ans:
+	it is always better to have the history of a files because sudden changes of new version of file may or may not work properly as we intended or expected. hence we need to get back to the older version of file in these case so having a history versions of files is neccessary for efficient programmer.
+	history of file also gives us our history data for future developement.
+
+	3.what do you think are the pros and cons of manually choosing when 
+	to create commit, like yo do in Git, vs having version automatically saved like google does?
+	ans:
+	manually chossing gives us flexibilty to commit the changes what we want to keep the history of it while automatic changes like google dock saves doc every pause we writing. Choosing when to commit is a judgment call, and it's not always cut-and-dried. When choosing whether to commit, just keep in mind that each commit should have one clear, logical purpose, and you should never do too much work without committing.
+
+	4.why do you think some version control system like Git, allow saving multiple files in one commit, while others like Google Docs, treat each file seperately?
+	ans:
+	Git system is works better for the whole project so having multiple files saving all it at once.in many situation there is an interdependancy between file storing in one repository git trak all the files and commit it on all files. while google docs in not for programmers to such tasks.
+
+	5.how can you use the command git log and git diff to view the history files?
+	ans:
+	by typing it in git bash. navigate to the directory where project is save. type in command git log .output :commit id ,author,date and mesage. git diff command compares two version of files coppy ids from log and place it with diff command.eg. git diff first_id second_id.
+
+
+	6.how might using version control make you more confident to make changes that make could break somehing?
+	ans:
+	because we have the old version which is running by changing it doesn't harm the running stable programme.we can do changes without worrying about working of projects
+
+	7.now that you have workspace set up, what do you want to try Git for?
+	ans:
+	using it to save my projects. i want try git for storing my codes.
+
+
+

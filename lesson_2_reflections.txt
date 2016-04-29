@@ -1,0 +1,2 @@
+	1. what happens when you initialize a repositary? why do you need to do it?
+	ans: when you initialize a repository then only you track and save the commits or history of your project folders. by using git init command you initialize the repository it will create a hidden git folder.
