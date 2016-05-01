@@ -3,3 +3,25 @@
 
 	2. How is the staging area different from the working directory and the repository ? what value do you think it offers?
 	ans: staging are give you chance to chooose the file among all the files which will commited as a single logical change. from working directroy to repository.
+
+	3. how can you use the staging area to make sure you have one commit per logical change?
+	ans : i will add only update the files that are corelated and change for the some logical reason like adding feature ,fixing bug ,typo etc. into staging area with specifying a perticular message. thats how i make sure that only one commit per logical change.
+
+	4. what are some situations when branches would be helpful in keeping your history organized? how would branches help?
+	ans: in some situation if you want to add an experinmental feature that may or may not necessary but to just try out you need not to harm the working main programme in git you can create branches using 'git branch' command to see the branches you have and 'git branch newbranchname' to create new branche to master branche and 'git checkout newbranchname ' to go to that branch and add changes.
+
+	5. how do the diagrams help you visualize the branch structure?
+	ans: diagrams shows how chagnes occured in flow and branches created for the new features or bug fixes.
+
+	6. what is the result of merging two branches together? why do we represent it in the diagram the way we do?
+	ans: the result  of merging two branches is that all the changes or editing done in those two branches can be save in the master or one files using these many people can work on different part of code and merge it later in one. by diagram representation we can understand the flow of commits and branches.
+
+	7. what are the pros and cons of Git's autmatic merging vs always doing merges manually? 
+	ans: git automatic merging resolve the conflict by machine learning but it is always better to let developer resovle the confilcts by their choices so git gives you message of confilcts.
+	
+
+	
+
+	
+
+	
