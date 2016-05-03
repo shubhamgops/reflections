@@ -9,3 +9,9 @@
 
 	4. what is the benefit of having a copy of the last known state of the remote stored locally?
 	ans: the benefit of having copy of the last known state of the remote stored locally can give us to update the document or code with recent updated or sync.
+
+	5. how would you collaborate without using git or github? what would be easier and  what would be harder?
+	ans: i didn't code yet with collaboration with group of peoples git is the best tool to code with collaborating with others.
+
+	6. when would you want to make changes in a seperate branch rather than directly in master? what benefits does each approach have?
+	ans: we use seperate branch when we want to add a new feature or an experimental features that should not effect the current working version of the project which is in master.  by doing it in the master branch we may want to suffer many problems as well as where many developers working on same project seperate branches for each of them is quit usefull and after completion of each of others task they can merge in the master.
